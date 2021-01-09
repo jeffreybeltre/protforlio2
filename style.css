@@ -1,0 +1,36 @@
+h1 {
+    color:rgb(189, 105, 105);
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* * {
+    border: solid;
+} */
+
+.header {
+    background-color : rgb(37, 235, 241);
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2,p {
+    text-align: center;
+    color:rgb(25, 255, 255);
+    font-size: 25px
+}
+
+body {
+    background-color: #808080;
+}
